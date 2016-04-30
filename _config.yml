@@ -1,0 +1,28 @@
+name: educationtoallnations
+favicon: null
+layout_spectrum: 0.2266275668516755
+typography_spectrum: 0.23000191967003047
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8853217519354075
+  lightness: 0.2916684199590236
+  saturation: 0.8101521173957735
+  rhythmicContrast: 0.08738045929931104
+purpose: []
